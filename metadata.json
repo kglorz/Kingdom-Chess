@@ -1,6 +1,0 @@
-{
-  "name": "Kingdom Chess",
-  "description": "An original tactical RPG chess variant featuring custom abilities, passive perks, ultimate powers, and real-time HP/status tracking.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
